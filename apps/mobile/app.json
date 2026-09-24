@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Boma",
+    "slug": "boma",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#f7f2ea"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
