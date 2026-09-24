@@ -1,6 +1,6 @@
 # Boma
 
-Boma is an all-in-one home operating system for African households.
+Boma is an all-in-one home operating system for African households. It gives a family one place to run the house: bills such as rent, electricity tokens, water, and internet; chores and instructions for staff; shopping; meals; school prep; and petty cash. Phase 1 starts with the bills tracker and household tasks.
 
 Live web app: https://boma-xi.vercel.app
 

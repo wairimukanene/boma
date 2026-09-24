@@ -4,7 +4,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Boma",
-  description: "An all-in-one home operating system for African households."
+  description:
+    "A home operating system for African households. Track bills, chores, shopping, meals, school prep, and petty cash in one place."
 };
 
 export default function RootLayout({

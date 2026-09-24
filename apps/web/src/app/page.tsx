@@ -115,9 +115,10 @@ export default function HomePage() {
             Sign in to run your household from one place.
           </h1>
           <p className="mt-5 max-w-2xl text-lg leading-8 text-[#71675c]">
-            Start with bills, then grow into chores, shopping, meals, staff,
-            school, and petty cash. After authentication, Boma takes you straight
-            to the bills tracker.
+            Boma is a home operating system for African households. Keep rent,
+            electricity tokens, water, and internet in one place, then add
+            chores, shopping, meals, staff, school, and petty cash. After you
+            sign in, Boma opens the bills tracker.
           </p>
 
           <div className="mt-8 grid gap-4 md:grid-cols-2">
