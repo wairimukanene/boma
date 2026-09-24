@@ -2,6 +2,8 @@
 
 Boma is an all-in-one home operating system for African households.
 
+Live web app: https://boma-xi.vercel.app
+
 ## Apps
 
 - `apps/web`: Next.js web app

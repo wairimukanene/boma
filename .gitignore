@@ -10,3 +10,4 @@ build/
 *.log
 *.tsbuildinfo
 .DS_Store
+.vercel/
